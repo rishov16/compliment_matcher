@@ -13,6 +13,7 @@ __pycache__/
 .pytest_cache/
 .venv/
 
-# Local environment and cache
+# Local data
 .cache
 .env
+my_liked_songs.json
